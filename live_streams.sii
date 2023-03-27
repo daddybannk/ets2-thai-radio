@@ -1,0 +1,22 @@
+SiiNunit
+{
+live_stream_def : _nameless {
+ stream_data: 16
+ stream_data[0]: "http://prdonline.prd.go.th:8210/;stream.mp3|Bangkok Live Radio FM 105|Bangkok|TH|128|0"
+ stream_data[1]: "http://prdonline.prd.go.th:8208/;stream.mp3|Bangkok Live Radio FM 97|Bangkok|TH|128|0"
+ stream_data[2]: "http://prdonline.prd.go.th:8206/;stream.mp3|Bangkok Live Radio FM 95.5|Bangkok|TH|128|0"
+ stream_data[3]: "http://prdonline.prd.go.th:8204/;stream.mp3|Bangkok Live Radio FM 93.5|Bangkok|TH|128|0"
+ stream_data[4]: "http://118.175.16.69:8200/;stream.mp3|Bangkok Live Radio FM 88|Bangkok|TH|128|0"
+ stream_data[5]: "http://prdonline.prd.go.th:8130/;stream.mp3|Chiang Rai FM 95.75|Chiang Rai|TH|128|0"
+ stream_data[6]: "http://prdonline.prd.go.th:8120/;stream.mp3|Chiang Mai FM 98|Chiang Mai|TH|128|0"
+ stream_data[7]: "http://prdonline.prd.go.th:8056/;stream.mp3|Tak FM 102|Tak|TH|128|0"
+ stream_data[8]: "http://prdonline.prd.go.th:9080/;stream.mp3|Takua Pa - Phang Nga FM 90.25|Phang Nga|TH|128|0"
+ stream_data[9]: "https://coolism-web.cdn.byteark.com/;stream/1|Cool Fahrenheit FM 93|Bangkok|TH|128|0"
+ stream_data[10]: "https://17573.live.streamtheworld.com/977_HITS_SC|Today's Hits Radio|Worldwide|EN|128|0"
+ stream_data[11]: "http://122.155.16.48:8955/;stream.mp3|FM 91 Trafficpro|Bangkok|TH|128|0"
+ stream_data[12]: "http://rstream.mcot.net:8000/fm1005|MCOT News FM 100.5|Bangkok|TH|128|0"
+ stream_data[13]: "http://27.254.142.208:8200/stream/1/|Request Radio Country Music|Bangkok|TH|128|0"
+ stream_data[14]: "http://radio11.plathong.net:8896/;stream.mp3|90 Looktung Rak Thai|Bangkok|TH|128|0"
+ stream_data[15]: "https://radio14.plathong.net/7134/;stream.mp3|Looktung Ploy Radio|Bangkok|TH|128|0"
+}
+}
